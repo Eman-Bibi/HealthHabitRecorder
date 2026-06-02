@@ -1,9 +1,10 @@
-# NetBeans build files
+# NetBeans build output
 build/
 dist/
 
-# NetBeans private config
+# NetBeans project files
+nbproject/
 nbproject/private/
 
-# Class files
+# Java compiled files
 *.class
