@@ -1,0 +1,9 @@
+# NetBeans build files
+build/
+dist/
+
+# NetBeans private config
+nbproject/private/
+
+# Class files
+*.class
